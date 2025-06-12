@@ -1,4 +1,4 @@
-# MISC--CPU
+# MISC-I CPU
 This is a virtual CPU that runs my custom architecture called MISC-!
 
 ## What is it?
